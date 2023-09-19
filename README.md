@@ -1,7 +1,6 @@
-[![MasterHead](https://camo.githubusercontent.com/0b5f431a318eb824e40b630d869b6a8629d4c86eeb84910b72e15e30ce4e482f/68747470733a2f2f7172616e676572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30392f42616e6e65722d496e74726f64756374696f6e2d746f2d33442d416e696d6174696f6e2e706e67)]
 <h1 align="center">Opa 👋, Eu sou Pedro Wolski</h1>
 <h3 align="center">Um estudante de Desenvolvimento de Softwares Multiplataforma</h3>
-<img align="right" alt="Coding" width="400" src=https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampdrin&label=Profile%20views&color=0e75b6&style=flat" alt="iampdrin" /> </p>
