@@ -1,15 +1,13 @@
 <h1 align="center">Opa 👋, eu sou Pedro Wolski</h1>
 <h3 align="center">Um estudante de Desenvolvimento de Softwares Multiplataforma</h3>
-<img align="right" width="400" height="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" width="300" height="250" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampdrin&label=Profile%20views&color=0e75b6&style=flat" alt="iampdrin" /></p>
 
 - 🤓 Atualmente, aprendendo **JAVA**
 
 - 📚 Aluno da **FATEC de Praia Grande**
 
-- ⚡ Fun fact **Este é meu primeiro ano programando**
+- ⚡ Fun fact **este é meu primeiro ano programando**
 
 <div>
 <h3 align="left">Languages and Tools:</h3>
