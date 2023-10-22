@@ -3,15 +3,15 @@
 <img align="right" width="300" height="250" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 
-- 🤓 Atualmente, aprendendo **Quick Sort**
+- 🤓 Atualmente, aprendendo **PHP**
 
 - 📚 Aluno da **FATEC de Praia Grande**
 
 - ⚡ Fun fact **este é meu primeiro ano programando**
 
 <div>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+  <h3 align="left">Languages and Tools:</h3>
+  <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -22,13 +22,14 @@
 </div>
 
 <div>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/pedro-wolski" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedro-wolski" height="30" width="40" /></a>
-  <a href="https://instagram.com/pedrobwolski" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pedrobwolski" height="30" width="40" /></a>
-  
-  <p align="right">&nbsp; <img width="500"  src="https://github-readme-stats.vercel.app/api?username=iampdrin&show_icons=true&locale=en" alt="iampdrin"/></p>
-
+  <h3 align="left">Connect with me:</h3>
+  <p align="left">
+  <a href="https://linkedin.com/in/pedro-wolski" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedro-wolski" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/pedrobwolski" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pedrobwolski" height="30" width="40" />
+  </a>
 </div>
 
 
