@@ -3,7 +3,7 @@
 <img align="right" width="300" height="250" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 
-- 🤓 Atualmente, aprendendo **Java-Spring (streams e lambdas)**
+- 🤓 Atualmente, aprendendo **Java-Spring (JPA Hibernate e Postgres)**
 
 - 📚 Aluno de Desenvolvimento de Software Multiplataforma pela **FATEC**
 
