@@ -3,11 +3,11 @@
 <img align="right" width="300" height="250" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 
-- 🤓 Atualmente, aprendendo **Kotlin-Gradle**
+- 🤓 Atualmente, aprendendo **Expo-React**
 
 - 📚 Aluno de Desenvolvimento de Software Multiplataforma pela **FATEC**
 
-- 💻 Estagiário na **Prefeitura de Praia de Prande**
+- 💻 Estagiário na **Next Informática**
 
 <div>
   <h3 align="left">Languages:</h3>
